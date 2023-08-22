@@ -1,0 +1,15 @@
+/* checkbox bg color */
+.css-1h5i06 {
+  background: #ffffff !important;
+  border-radius: 10px !important;
+}
+/* checkbox bg color when checked */
+.css-1h5i06[data-checked] {
+  background: black !important;
+  border-radius: 10px !important;
+  border: 0px;
+}
+/* checkbox tick mark removed */
+.css-1v5j1c {
+  display: none;
+}

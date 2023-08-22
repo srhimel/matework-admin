@@ -1,0 +1,6 @@
+export { widget1 } from './widget1'
+export { widget2 } from './widget2'
+export { widget3 } from './widget3'
+export { widget4 } from './widget4'
+export { widget5 } from './widget5'
+export { widget6 } from './widget6'
